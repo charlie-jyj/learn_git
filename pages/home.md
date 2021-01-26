@@ -1,10 +1,21 @@
-# Welcome to 5ss2
--IM 취득!
+# 대문 화면
 
 ## Hello, World
-안녕하세욥
 
-### This is 5기 ssafy 서울 2반!
--디스코드
--노션
--구글 시트
+### This is 5기 ssafy 서울 2반!!
+
+
+```
+$ git switch (checkout) <branch-name>
+$ git switch -c <branch-name>
+$ git branch <branch-name>
+$ git branch -d <branch-name>
+$ git merge <branch-name>
+$ git reflog
+```
+
+```
+HEAD
+master
+other-branch
+```
